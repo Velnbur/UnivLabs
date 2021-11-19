@@ -1,0 +1,15 @@
+[submodule "OOP/PseudoRandGen"]
+	path = OOP/PseudoRandGen
+	url = git@github.com:Velnbur/PseudoRandGen.git
+[submodule "Programming/CWRR"]
+	path = Programming/CWRR
+	url = git@github.com:Velnbur/CWRR.git
+[submodule "Programming/NXGraphsLab"]
+	path = Programming/NXGraphsLab
+	url = git@github.com:Velnbur/NXGraphsLab.git
+[submodule "CSA/AsmVM"]
+	path = CSA/AsmVM
+	url = git@github.com:Velnbur/AsmVM.git
+[submodule "CSA/FNCP"]
+	path = CSA/FNCP
+	url = git@github.com:Velnbur/FNCP.git
