@@ -13,3 +13,6 @@
 [submodule "CSA/FNCP"]
 	path = CSA/FNCP
 	url = git@github.com:Velnbur/FNCP.git
+[submodule "CSA/DeterSysSpeed"]
+	path = CSA/DeterSysSpeed
+	url = git@github.com:Velnbur/DeterSysSpeed.git
