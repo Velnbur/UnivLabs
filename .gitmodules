@@ -16,3 +16,6 @@
 [submodule "CSA/DeterSysSpeed"]
 	path = CSA/DeterSysSpeed
 	url = git@github.com:Velnbur/DeterSysSpeed.git
+[submodule "OOP/UnsignedLongInt"]
+	path = OOP/UnsignedLongInt
+	url = git@github.com:Velnbur/UnsignedLongInt.git
